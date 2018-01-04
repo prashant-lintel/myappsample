@@ -7,3 +7,5 @@ password:- prashant12345
 1st step:-in github first created your account
 2nd step:-choose your personal plan
 
+2)To make branch in github from terminal
+cmd: git branch branch_name
