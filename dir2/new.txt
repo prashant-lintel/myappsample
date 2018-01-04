@@ -1,0 +1,6 @@
+<html>
+<head><title>hello from dir1 </title> </head>
+<body>
+<h1>This is the hello from new directory dir 1 </h1>
+</body>
+</html>
